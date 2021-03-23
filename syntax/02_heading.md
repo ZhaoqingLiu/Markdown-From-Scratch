@@ -1,4 +1,6 @@
-# atx Form
+# Heading
+
+## atx Form
 
 #H1
 ## H2
@@ -6,7 +8,7 @@
 #### H4 #
 
 
-# Setext Form
+## Setext Form
 The number of = and - is arbitrary. However, for aesthetic purposes, it is recommended that it be the same length as the title text.
 
 H1
