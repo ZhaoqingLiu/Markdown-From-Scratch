@@ -4,5 +4,5 @@
 
 ## Extension
 
-5. [Emoji]()
+5. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/extension/emoji)
 
