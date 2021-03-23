@@ -17,7 +17,7 @@
 
  1. [Image](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/08_image.md)
 
- 1. [](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/)
+ 1. [Highlight](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/09_highlight.md)
 
  1. [Escape Character](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/10_escape_character.md)
 
