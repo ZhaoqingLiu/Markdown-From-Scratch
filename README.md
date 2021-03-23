@@ -15,7 +15,7 @@
 
  1. [Hyperlink](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/07_hyperlink.md)
 
- 1. [](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/)
+ 1. [Image](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/08_image.md)
 
  1. [](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/)
 
