@@ -21,7 +21,15 @@
 
  1. [Escape Character](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/10_escape_character.md)
 
-## Extension
+## Syntax Extension
+
+ 1. [Strike Through](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/01_strike_through.md)
+
+ 1. [Code Block](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/02_code_block.md)
+
+ 1. [Table](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/03_table.md)
+
+ 1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/emoji)
 
  1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/emoji)
 
