@@ -34,3 +34,9 @@
  1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/05_emoji.md)
 
 ## Convert
+
+ 1. [HTML](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/01_html.md)
+
+ 1. [PDF](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/02_pdf.md)
+
+ 1. [WORD](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/03_word.md)
