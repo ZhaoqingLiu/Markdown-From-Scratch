@@ -35,8 +35,8 @@
 
 ## Convert
 
- 1. [HTML](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/01_html.md)
+ 1. [HTML](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/format_conversion/01_html.md)
 
- 1. [PDF](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/02_pdf.md)
+ 1. [PDF](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/format_conversion/02_pdf.md)
 
- 1. [WORD](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/03_word.md)
+ 1. [WORD](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/format_conversion/03_word.md)
