@@ -29,7 +29,7 @@
 
  1. [Table](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/03_table.md)
 
- 1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/emoji)
+ 1. [Task List](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/04_task_list.md)
 
  1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/emoji)
 
