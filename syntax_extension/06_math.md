@@ -7,9 +7,7 @@ At the beginning of a Markdown text, adding:
 ```
 Syntax: *Same as those in LaTex*
 
-Example: \$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\$$
-
-Display: $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+Example: $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 **NB: If the above method does not work, you can use Chrome with the extension 'GitHub with MathJax' added.**
 
