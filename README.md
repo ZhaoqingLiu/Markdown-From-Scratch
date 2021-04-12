@@ -23,7 +23,7 @@
 
 ## Syntax Extension
 
- 1. [Strike Through](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/01_strike_through.md)
+ 1. [Font](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/01_font.md)
 
  1. [Code Block](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/02_code_block.md)
 
@@ -32,6 +32,8 @@
  1. [Task List](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/04_task_list.md)
 
  1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/05_emoji.md)
+
+ 1. [Math](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/06_math.md)
 
 ## Convert
 
