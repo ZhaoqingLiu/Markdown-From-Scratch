@@ -7,3 +7,8 @@
     
 ## Start with ``
 `<html>Markdown</html>`
+
+## Start with ```
+```html
+<html>Markdown</html>
+```
