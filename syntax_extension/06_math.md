@@ -6,7 +6,7 @@ At the beginning of a Markdown text, adding:
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ```
 
-Example: x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+Example: \$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\$$
 
 Display: $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
