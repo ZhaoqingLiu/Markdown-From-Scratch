@@ -11,6 +11,6 @@ Example: \*This is a demo text.\* or \_This is a demo text.\_
 Display: *This is a demo text.* or _This is a demo text._
 
 ## StrikeThrough
-Example: *This is a \~\~demo\~\~ text.
+Example: This is a \~\~demo\~\~ text.
 
 Display: This is a ~~demo~~ text.
