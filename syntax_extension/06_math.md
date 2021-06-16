@@ -34,3 +34,24 @@ Example:
 
 Display: <img src="http://www.forkosh.com/mathtex.cgi? x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
+
+## Matrix
+$$\begin{matrix}
+1&2 \\  3&4 \\ 5&6
+\end{matrix}
+$$
+
+$$\left\{
+\begin{matrix}
+1&2 \\  3&4 \\ 5&6
+\end{matrix}
+\right\}
+$$
+
+$$\left\[
+\begin{matrix}
+1&2 \\  3&4 \\ 5&6
+\end{matrix}
+\right\]
+$$
+

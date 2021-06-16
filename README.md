@@ -1,47 +1,49 @@
 # Markdown-From-Scratch
 
 ## Syntax
-1. [Paragraph and Newline](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/01_paragraph_and_newline.md)
+1. [Paragraph and Newline](./syntax/01_paragraph_and_newline.md)
 
- 1. [Heading](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/02_heading.md)
+ 1. [Heading](./syntax/02_heading.md)
 
- 1. [Blockquote](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/03_blockquote.md)
+ 1. [Blockquote](./syntax/03_blockquote.md)
 
- 1. [List](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/04_list.md)
+ 1. [List](./syntax/04_list.md)
 
- 1. [Code](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/05_code.md)
+ 1. [Code](./syntax/05_code.md)
 
- 1. [Separator](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/06_separator.md)
+ 1. [Separator](./syntax/06_separator.md)
 
- 1. [Hyperlink](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/07_hyperlink.md)
+ 1. [Hyperlink](./syntax/07_hyperlink.md)
 
- 1. [Image](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/08_image.md)
+ 1. [Image](./syntax/08_image.md)
 
- 1. [Highlight](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/09_highlight.md)
+ 1. [Highlight](./syntax/09_highlight.md)
 
- 1. [Escape Character](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax/10_escape_character.md)
+ 1. [Escape Character](./syntax/10_escape_character.md)
 
 ## Syntax Extension
 
- 1. [Font](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/01_font.md)
+ 1. [Font](./syntax_extension/01_font.md)
 
- 1. [Code Block](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/02_code_block.md)
+ 1. [Code Block](./syntax_extension/02_code_block.md)
 
- 1. [Table](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/03_table.md)
+ 1. [Table](./syntax_extension/03_table.md)
 
- 1. [Task List](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/04_task_list.md)
+ 1. [Task List](./syntax_extension/04_task_list.md)
 
- 1. [Emoji](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/05_emoji.md)
+ 1. [Emoji](./syntax_extension/05_emoji.md)
 
- 1. [Math](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/syntax_extension/06_math.md)
+ 1. [Math](./syntax_extension/06_math.md)
+
+ 1. [Multimedia](./syntax_extension/07_multimedia.md)
 
 ## Convert
 
- 1. [HTML](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/format_conversion/01_html.md)
+ 1. [HTML](./format_conversion/01_html.md)
 
- 1. [PDF](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/format_conversion/02_pdf.md)
+ 1. [PDF](./format_conversion/02_pdf.md)
 
- 1. [WORD](https://github.com/ZhaoqingLiu/Markdown-From-Scratch/blob/main/format_conversion/03_word.md)
+ 1. [WORD](./format_conversion/03_word.md)
 
 
 Ref. https://xianbai.me/learn-md/index.html

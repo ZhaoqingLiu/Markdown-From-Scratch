@@ -15,6 +15,9 @@ Example: This is a \~\~demo\~\~ text.
 
 Display: This is a ~~demo~~ text.
 
+## Font
+<font face="Arial">Arial</font>
+
 ## Color
 Red text：<font color="#FF0000">Red text</font><br /> 
 Red text：<font color=red>Red text</font><br /> 
@@ -27,3 +30,7 @@ Size is 2: <font size="2">Size is 2</font><br />
 Background color is set according to the hexadecimal color value: 
 <table><tr><td bgcolor=#D1EEEE>The table's background color value is: #D1EEEE</td></tr></table>
 
+## Alignment
+<center>This is a title</center>
+<p align="left">This is text</p>
+<div align=center><img width = '150' height ='150' src ="../img/Parent_Functions_and_Their_graphs.png"/></div>
