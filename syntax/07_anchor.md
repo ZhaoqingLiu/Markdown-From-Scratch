@@ -1,8 +1,8 @@
 # Anchor
+NB: The following two methods cannot be used together.
 
 [Go to level 2 heading 2.BBB](#2.BBB)
 
-[Go to demo1](#demo1)
 ...
 
 ...
@@ -154,4 +154,3 @@
 ...
 
 
-<span id="demo1">Demo1 ... </span>
