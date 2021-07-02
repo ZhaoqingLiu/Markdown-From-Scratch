@@ -1,6 +1,6 @@
 # Anchor
 
-[Go to level 2 heading 1.AAA](#1.AAA)
+[Go to level 2 heading 1.AAA](#2.BBB)
 
 [Go to demo1](#demo1)
 ...
