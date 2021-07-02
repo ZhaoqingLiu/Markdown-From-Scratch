@@ -13,13 +13,13 @@
 
  1. [Separator](./syntax/06_separator.md)
 
- 1. [Hyperlink](./syntax/07_hyperlink.md)
+ 1. [Hyperlink](syntax/08_hyperlink.md)
 
- 1. [Image](./syntax/08_image.md)
+ 1. [Image](syntax/09_image.md)
 
- 1. [Highlight](./syntax/09_highlight.md)
+ 1. [Highlight](syntax/10_highlight.md)
 
- 1. [Escape Character](./syntax/10_escape_character.md)
+ 1. [Escape Character](syntax/11_escape_character.md)
 
 ## Syntax Extension
 
