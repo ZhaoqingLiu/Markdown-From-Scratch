@@ -1,7 +1,7 @@
 # Anchor
-NB: The following two methods cannot be used together.
 
 [Go to level 2 heading BBB](#BBB)
+(NB: This methods cannot be used with list numbering.)
 
 [Go to demo1](#demo1)
 ...
