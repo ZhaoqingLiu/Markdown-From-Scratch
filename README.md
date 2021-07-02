@@ -13,6 +13,8 @@
 
  1. [Separator](./syntax/06_separator.md)
 
+ 1. [Anchor](syntax/07_anchor.md)
+
  1. [Hyperlink](syntax/08_hyperlink.md)
 
  1. [Image](syntax/09_image.md)
