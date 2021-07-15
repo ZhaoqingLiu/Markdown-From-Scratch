@@ -23,6 +23,8 @@
 
  1. [Escape Character](syntax/11_escape_character.md)
 
+ 1. [HTML Character and Symbol](syntax/12_special_character.md)
+
 ## Syntax Extension
 
  1. [Font](./syntax_extension/01_font.md)
