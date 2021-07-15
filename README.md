@@ -23,7 +23,7 @@
 
  1. [Escape Character](syntax/11_escape_character.md)
 
- 1. [HTML Character and Symbol](syntax/12_special_character.md)
+ 1. [HTML Character Codes](syntax/12_html_character_codes.md)
 
 ## Syntax Extension
 
