@@ -1,7 +1,8 @@
 # Anchor
 
+NB: The id name of an anchor cannot contain any Spaces.
+
 [Go to level 2 heading BBB](#BBB)
-(NB: This methods cannot be used with list numbering.)
 
 [Go to demo1](#demo1)
 ...
